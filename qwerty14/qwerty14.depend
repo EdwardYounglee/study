@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565421836 source:/Users/macintosh/Desktop/source/qwerty14/main.c
+	<stdio.h>
+	<stdlib.h>
+
